@@ -2,7 +2,7 @@
 Hi there 👋
 🧾 I'm pursuing my  btech degree from Swami Keshvanand Institute of Information & Technology, Jaipur
 
-🌱 I’m currently on a website
+🌱 I’m currently working on a website
 
 💡 Hashtag that describes me #Web Developer
 
